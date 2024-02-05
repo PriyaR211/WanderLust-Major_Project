@@ -1,1 +1,2 @@
 # WanderLust-Major_Project
+This is a website for the purpose of exploring different types of holiday locations. It has facilites to show all the listing locations. This website has facility to add new listings. Each listing can individually be seen in detail by clicking on it. In each listing, People can add review which consists of rating and comment in it and can also delete this review. Each listing, review can be deleted by using delete button. on each event, Express flash also appears.
